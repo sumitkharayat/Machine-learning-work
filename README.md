@@ -1,8 +1,8 @@
 # Machine-learning Projects
-Machine Learning Experiments 🚀
+Machine Learning Experiments 
 
 Welcome to my Machine Learning Experiments Repository.
-This repository contains multiple ML projects and experiments built while learning and exploring different concepts in Machine Learning, Data Science, and Predictive Modeling.
+This repository contains multiple ML projects and experiments built while learning and exploring different concepts in Machine Learning, Data Science, and Predictive Modelling.
 
 I am continuously improving my skills in:
 
