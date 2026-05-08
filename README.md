@@ -175,7 +175,3 @@ Future Improvements
 
 Contributions
 Suggestions and improvements are always welcome.
-
-⸻
-
-⭐ If you like this repository, consider giving it a star!
